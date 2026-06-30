@@ -46,6 +46,36 @@ _Every core feature below was designed with both sides of this relationship in m
 
 ---
 
+
+
+### ♿ Accessibility Considerations & Known Limitations
+
+We are fully aware that a significant portion of Egypt's population — particularly older or less tech-literate clients — cannot and will not interact with a mobile app directly. This is not a blind spot in the design; it is a deliberately acknowledged boundary.
+
+#### ❓ Why this doesn't undermine the platform
+Esteshara's adoption model is **lawyer-first, not client-first**. The lawyer is always the primary point of entry. A client who cannot use a smartphone does not need to — they continue interacting with their lawyer exactly as they always have (in person, by phone). The lawyer uses the platform tools on their end, and the client receives the benefit indirectly:
+
+* **Document Handling:** The lawyer uploads documents on the client's behalf.
+* **Financial Protection:** The escrow system protects the client's money without requiring the client to touch the app.
+* **Case Tracking:** Judgment execution tracking is managed by the lawyer and shared with the client verbally or in person.
+* **SMS Notifications:** For simple status updates, the platform can notify clients via SMS — requiring no app install, no account, no technical literacy.
+
+#### 👥 Who the client-side UI is actually built for
+The client-facing interface is designed for a specific, realistic segment:
+
+| Client Type | Can Use the App? | How They Benefit |
+| :--- | :---: | :--- |
+| **Business owners & companies** *(e.g. Karim Fawry)* | 🟢 **Yes — directly** | Full platform access: contracts, payments, case tracking |
+| **Young or mid-age individuals** comfortable with smartphones | 🟢 **Yes — directly** | Case visibility, digital signing, payment protection |
+| **Less tech-literate individuals** *(older clients, rural users)* | ❌ **Not directly** | Benefit indirectly via the lawyer as intermediary |
+| **Fully illiterate clients** | ❌ **Not directly** | Lawyer acts as full proxy; client benefits from escrow and process integrity without touching the app |
+
+> 🏛️ **The Honest Answer:**
+> No LegalTech platform — in Egypt or globally — has solved the digital literacy gap for fully offline users through a mobile app. Attempts to fake this solution produce bad UX for everyone. Our answer is to not pretend the app serves everyone equally, but to design the lawyer-side tools so well that even a client who never opens the app still benefits from a more secure, more transparent, and more accountable legal process than they had before.
+
+---
+
+
 ### ⚡ Key Features
 
 | # | Feature | What It Solves |

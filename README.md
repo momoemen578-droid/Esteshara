@@ -139,22 +139,14 @@ In addition to the 12 core features, Esteshara includes an **AI Case Outcome & J
 
 ---
 
+
 ### 📁 Project Files
 
-* 🗺️ [UX / FigJam File](add_link_herehttps://www.figma.com/board/PdrKX6Ft3s69R5PUuuwDK6/Grad-Project?node-id=0-1&t=1vqLi7UKkCJQHJh8-1)
-* 🎨 [UI / Figma File](https://www.figma.com/design/0ZgdpjyFTgNimiaLoZvlV0/GRAD-P-DEPI?node-id=0-1&t=tLpQM5r3GIIW5a1n-1add_link_here)
-* 📄 [Case Study File](add_link_herehttps://www.figma.com/design/2539Gq1qG67V9Fp1ooAHEi/depi-grad-presentation?node-id=0-1&t=mZjdNCFA0dEIwPXL-1)
-* 🎬 [Demo Video](https://youtu.be/9iczwyJ6xXwadd_link_here)
+* 🗺️ [UX / FigJam File](https://www.figma.com/board/PdrKX6Ft3s69R5PUuuwDK6/Grad-Project?node-id=0-1&t=1vqLi7UKkCJQHJh8-1)
+* 🎨 [UI / Figma File](https://www.figma.com/design/0ZgdpjyFTgNimiaLoZvlV0/GRAD-P-DEPI?node-id=0-1&t=tLpQM5r3GIIW5a1n-1)
+* 📄 [Case Study File](https://www.figma.com/design/2539Gq1qG67V9Fp1ooAHEi/depi-grad-presentation?node-id=0-1&t=mZjdNCFA0dEIwPXL-1)
+* 🎬 [Demo Video](https://youtu.be/9iczwyJ6xXw)
 
----
-
-### 📱 Screenshots
-
-*(Add mobile screen previews here — Lawyer side and Client side, organized by feature)*
-
-| Lawyer Side | Client Side |
-| :---: | :---: |
-| ![Lawyer Screenshot](add_image_link_here) | ![Client Screenshot](add_image_link_here) |
 
 ---
 

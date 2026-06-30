@@ -157,8 +157,7 @@ In addition to the 12 core features, Esteshara includes an **AI Case Outcome & J
 | **Mariam Ahmed Mohamed Elshamly** | UI/UX Designer | End-to-end Case Study & UI/UX Design |
 | **Shrouk Mohammed Abdelfattah Elwan** | UI/UX Designer | End-to-end Case Study & UI/UX Design |
 | **Yasmin Ahmed Abdelsalam abohammar** | UI/UX Designer | End-to-end Case Study & UI/UX Design |
-
-
+| **Moemen Tarek Mohamed Ali Okap** | UI/UX Designer | End-to-end Case Study & UI/UX Design |
 ---
 
 ### 👨‍🏫 Instructor
